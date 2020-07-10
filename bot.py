@@ -104,4 +104,4 @@ async def load(ctx, *, msg):
         await ctx.send('Dev only')
 
 keep_alive.keep_alive()
-bot.run('NzMwOTk2MzIzMzYwNDQwNDQx.XwfwRg.SRKJFSiT8nJaFbYpnL-wRI2fWqQ', reconnect=True)
+bot.run('TOKEN', reconnect=True)
